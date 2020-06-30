@@ -1,4 +1,4 @@
-# Linear-Regression-Model
+# Linear-Regression-Model-1
 Linear Regression Model Which predicts pricing of the houses according to its location , no of rooms, age of house etc.
 Python code:
 import libraries 
